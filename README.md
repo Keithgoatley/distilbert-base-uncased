@@ -3,6 +3,6 @@ The sentiment analysis project utilizes the distilbert-base-uncased model from H
 
 Credits:
 Transformers Library: Used for loading and utilizing the distilbert-base-uncased model.</br>
-Hugging Face Model Hub: Source of the pre-trained model checkpoint.
-Python: Programming language used for scripting.
-GitHub: Hosting platform for version control and project collaboration.
+Hugging Face Model Hub: Source of the pre-trained model checkpoint.</br>
+Python: Programming language used for scripting.</br>
+GitHub: Hosting platform for version control and project collaboration.</br>
