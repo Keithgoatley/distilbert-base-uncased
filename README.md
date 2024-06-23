@@ -1,5 +1,6 @@
-Project Description:
-The sentiment analysis project utilizes the distilbert-base-uncased model from Hugging Face to perform sentiment classification on text inputs. It demonstrates how to leverage pre-trained models for natural language processing tasks using the Transformers library.
+Project Description:</br>
+The sentiment analysis project utilizes the distilbert-base-uncased model from Hugging Face to perform sentiment classification on text inputs.</br>
+It demonstrates how to leverage pre-trained models for natural language processing tasks using the Transformers library.
 
 Credits:</br>
 Transformers Library: Used for loading and utilizing the distilbert-base-uncased model.</br>
